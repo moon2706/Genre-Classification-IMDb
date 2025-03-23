@@ -1,0 +1,19 @@
+
+# ML #
+
+Logistic Regression: 0.5861846352485475
+LightGBM Accuracy: 0.5677395554735775
+XGBoost Accuracy: 0.5438531771649913
+Naive Bayes Accuracy: 0.5100986811767961
+
+
+Random Forest Accuracy: 0.4758830581942267
+KNN Accuracy: 0.41233975836945497
+Decision Tree Accuracy: 0.33588490270220417
+
+
+# DL #
+
+CNN Model Training Accuracy: 89.78%
+GRU Accuracy: 74.61%
+LSTM Training Accuracy: 72.24%
