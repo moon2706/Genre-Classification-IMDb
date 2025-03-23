@@ -14,6 +14,8 @@ This project focuses on classifying movie genres using **Convolutional Neural Ne
 ---
 
 ## 📁 **Dataset Overview**
+The dataset can be downloaded from [Kaggle - Genre Classification Dataset IMDb](https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb).
+
 The dataset consists of four files:
 - **`train_data.txt`**: Contains the training data with columns - `ID`, `Title`, `Genre`, and `Description`.
 - **`test_data.txt`**: Contains test data with `ID`, `Title`, and `Description`.
